@@ -1,0 +1,3 @@
+[submodule "themes/persia"]
+	path = themes/persia
+	url = https://github.com/themefisher/persian-hugo.git
