@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>services on Gantry</title>
+    <link>https://www.gantry.cloud/categories/services/</link>
+    <description>Recent content in services on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/categories/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>https://www.gantry.cloud/services/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.gantry.cloud/services/</guid>
+      <description>Power Hour: $1,200 90 minutes of one-on-one consulting where we will analyze your system and come up with a strategy you can implement yourself, or have us do later.
+Single Implementation I: $7,500 We will execute (according to a Statement Of Work) predefined outcomes for your team.
+Single Implementation II: $12,000 More servers, more bandwidth, more processes.. time for an upgrade to our more advanced one-time package.
+6 Month Support: $120,000 Full DevOps support for six months.</description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>https://www.gantry.cloud/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gantry.cloud/products/</guid>
+      <description>CrashBoard Monitor your successes and correct faliures like never before.</description>
+    </item>
+    
+  </channel>
+</rss>

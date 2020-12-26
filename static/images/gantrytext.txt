@@ -1,0 +1,28 @@
+Gantry
+
+Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based.
+Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry
+
+About
+
+GREENTECH LITE THEME
+
+Packages
+Power Hour: $1,200
+90 minutes of one-on-one consulting where we will analyze your system and come up with a strategy you can implement yourself, or have us do later.
+Single Implementation I: $7,500
+We will execute (according to a Statement Of Work) predefined outcomes for your team.
+Single Implementation II: $12,000
+More servers, more bandwidth, more processes.. time for an upgrade to our more advanced one-time package.
+6 Month Support: $120,000
+Full DevOps support for six months.
+By The Hour: $250/Hour
+** For each hour after a Power Hour. Continuous infrastructure support as you need it.
+One Year Agreement: Contact Us
+
+Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.
+
+Principal Infrastructure Engineer: Jason Stryker is a Site Reliability Engineer who has worked on cloud migrations and critical infrastructure automation for a major bank.
+￼
+Business Development: Mark Wagner is a Full Stack engineer based in Chandler, Arizona who has worked on automating Machine Learning efforts at Wells Fargo. Versed in Linux based systems, Mark is proficient with things on the business side as well as technical such as Chef software.
+

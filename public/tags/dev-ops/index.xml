@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev-Ops on Gantry</title>
+    <link>https://www.gantry.cloud/tags/dev-ops/</link>
+    <description>Recent content in Dev-Ops on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/tags/dev-ops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day Zero</title>
+      <link>https://www.gantry.cloud/post/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.gantry.cloud/post/post-3/</guid>
+      <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
+    </item>
+    
+  </channel>
+</rss>
