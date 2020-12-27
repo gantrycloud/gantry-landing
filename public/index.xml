@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gantry</title>
-    <link>https://www.gantry.cloud/</link>
+    <link>https://gantry.cloud/</link>
     <description>Recent content on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christina</title>
+      <link>https://gantry.cloud/christina/</link>
+      <pubDate>Fri, 25 Dec 2020 22:37:21 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/christina/</guid>
+      <description>HELLO Hey babe</description>
+    </item>
+    
     <item>
       <title>What are you bringing aboard?</title>
-      <link>https://www.gantry.cloud/post/post-1/</link>
+      <link>https://gantry.cloud/post/post-1/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/post/post-1/</guid>
+      <guid>https://gantry.cloud/post/post-1/</guid>
       <description>Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based. Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry</description>
     </item>
     
     <item>
       <title>Day Zero</title>
-      <link>https://www.gantry.cloud/post/post-3/</link>
+      <link>https://gantry.cloud/post/post-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/post/post-3/</guid>
+      <guid>https://gantry.cloud/post/post-3/</guid>
       <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
     </item>
     
     <item>
       <title>Decisions</title>
-      <link>https://www.gantry.cloud/post/post-2/</link>
+      <link>https://gantry.cloud/post/post-2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/post/post-2/</guid>
+      <guid>https://gantry.cloud/post/post-2/</guid>
       <description>Decision Making How do you decide what cloud is for you?
 Do you need compliance? Perhaps you are leaning towards Azure.
 Are your engineers on google? GCloud!
@@ -39,10 +48,10 @@ Maybe you need your own control planes altogether!</description>
     
     <item>
       <title>Services</title>
-      <link>https://www.gantry.cloud/services/</link>
+      <link>https://gantry.cloud/services/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/services/</guid>
+      <guid>https://gantry.cloud/services/</guid>
       <description>Power Hour: $1,200 90 minutes of one-on-one consulting where we will analyze your system and come up with a strategy you can implement yourself, or have us do later.
 Single Implementation I: $7,500 We will execute (according to a Statement Of Work) predefined outcomes for your team.
 Single Implementation II: $12,000 More servers, more bandwidth, more processes.. time for an upgrade to our more advanced one-time package.
@@ -51,28 +60,28 @@ Single Implementation II: $12,000 More servers, more bandwidth, more processes..
     
     <item>
       <title>Jason Stryker</title>
-      <link>https://www.gantry.cloud/author/jason-stryker/</link>
+      <link>https://gantry.cloud/author/jason-stryker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gantry.cloud/author/jason-stryker/</guid>
+      <guid>https://gantry.cloud/author/jason-stryker/</guid>
       <description>Jason Stryker is a Site Reliability Engineer who has worked on cloud migrations and critical infrastructure automation for a major banking institution.</description>
     </item>
     
     <item>
       <title>Mark Wagner</title>
-      <link>https://www.gantry.cloud/author/mark-wagner/</link>
+      <link>https://gantry.cloud/author/mark-wagner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gantry.cloud/author/mark-wagner/</guid>
+      <guid>https://gantry.cloud/author/mark-wagner/</guid>
       <description>Mark Wagner is a Full Stack Linux engineer based in Austin, Texas who previously automated Machine Learning efforts at Wells Fargo.</description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>https://www.gantry.cloud/products/</link>
+      <link>https://gantry.cloud/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gantry.cloud/products/</guid>
+      <guid>https://gantry.cloud/products/</guid>
       <description>CrashBoard Monitor your successes and correct faliures like never before.</description>
     </item>
     

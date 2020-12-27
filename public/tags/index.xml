@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gantry</title>
-    <link>https://www.gantry.cloud/tags/</link>
+    <link>https://gantry.cloud/tags/</link>
     <description>Recent content in Tags on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Systems</title>
-      <link>https://www.gantry.cloud/tags/systems/</link>
+      <link>https://gantry.cloud/tags/systems/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/tags/systems/</guid>
+      <guid>https://gantry.cloud/tags/systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>https://www.gantry.cloud/tags/cloud/</link>
+      <link>https://gantry.cloud/tags/cloud/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/tags/cloud/</guid>
+      <guid>https://gantry.cloud/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dev-Ops</title>
-      <link>https://www.gantry.cloud/tags/dev-ops/</link>
+      <link>https://gantry.cloud/tags/dev-ops/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/tags/dev-ops/</guid>
+      <guid>https://gantry.cloud/tags/dev-ops/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Gantry</title>
-    <link>https://www.gantry.cloud/tags/cloud/</link>
+    <link>https://gantry.cloud/tags/cloud/</link>
     <description>Recent content in Cloud on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decisions</title>
-      <link>https://www.gantry.cloud/post/post-2/</link>
+      <link>https://gantry.cloud/post/post-2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://www.gantry.cloud/post/post-2/</guid>
+      <guid>https://gantry.cloud/post/post-2/</guid>
       <description>Decision Making How do you decide what cloud is for you?
 Do you need compliance? Perhaps you are leaning towards Azure.
 Are your engineers on google? GCloud!

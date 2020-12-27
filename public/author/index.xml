@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Gantry</title>
-    <link>https://www.gantry.cloud/author/</link>
+    <link>https://gantry.cloud/author/</link>
     <description>Recent content in Authors on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.gantry.cloud/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gantry.cloud/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jason Stryker</title>
-      <link>https://www.gantry.cloud/author/jason-stryker/</link>
+      <link>https://gantry.cloud/author/jason-stryker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gantry.cloud/author/jason-stryker/</guid>
+      <guid>https://gantry.cloud/author/jason-stryker/</guid>
       <description>Jason Stryker is a Site Reliability Engineer who has worked on cloud migrations and critical infrastructure automation for a major banking institution.</description>
     </item>
     
     <item>
       <title>Mark Wagner</title>
-      <link>https://www.gantry.cloud/author/mark-wagner/</link>
+      <link>https://gantry.cloud/author/mark-wagner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gantry.cloud/author/mark-wagner/</guid>
+      <guid>https://gantry.cloud/author/mark-wagner/</guid>
       <description>Mark Wagner is a Full Stack Linux engineer based in Austin, Texas who previously automated Machine Learning efforts at Wells Fargo.</description>
     </item>
     
