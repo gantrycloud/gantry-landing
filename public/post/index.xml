@@ -37,5 +37,23 @@ Are your engineers on google? GCloud!
 Maybe you need your own control planes altogether!</description>
     </item>
     
+    <item>
+      <title>Argo CD</title>
+      <link>https://gantry.cloud/post/post-4/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/post-4/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>Caddy &gt; Nginx</title>
+      <link>https://gantry.cloud/post/caddy/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/caddy/</guid>
+      <description>On Caddy</description>
+    </item>
+    
   </channel>
 </rss>

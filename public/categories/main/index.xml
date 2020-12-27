@@ -16,5 +16,23 @@
       <description>Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based. Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry</description>
     </item>
     
+    <item>
+      <title>Argo CD</title>
+      <link>https://gantry.cloud/post/post-4/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/post-4/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>Caddy &gt; Nginx</title>
+      <link>https://gantry.cloud/post/caddy/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/caddy/</guid>
+      <description>On Caddy</description>
+    </item>
+    
   </channel>
 </rss>
