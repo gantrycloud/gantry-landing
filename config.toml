@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.gantry.cloud"
+baseURL = "https://gantry.cloud"
 
 
 # disableKinds = ["taxonomyTerm"]
