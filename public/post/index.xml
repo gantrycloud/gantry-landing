@@ -38,6 +38,18 @@ Maybe you need your own control planes altogether!</description>
     </item>
     
     <item>
+      <title>Managed CI Pipelines</title>
+      <link>https://gantry.cloud/post/managed-ci-pipeline/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/managed-ci-pipeline/</guid>
+      <description>Sometimes you need a plumber to fix a leak.
+Other times, you need a new bathroom added.
+Rarely, you are building a whole house and want the job done right!
+The latter is our package, a DFY kubernetes instance running your services, error free!</description>
+    </item>
+    
+    <item>
       <title>Argo CD</title>
       <link>https://gantry.cloud/post/post-4/</link>
       <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
