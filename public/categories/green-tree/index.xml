@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Tree on Gantry</title>
+    <link>https://www.gantry.cloud/categories/green-tree/</link>
+    <description>Recent content in Green Tree on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://www.gantry.cloud/categories/green-tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are you bringing aboard?</title>
+      <link>https://www.gantry.cloud/post/post-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.gantry.cloud/post/post-1/</guid>
+      <description>Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based. Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry</description>
+    </item>
+    
+  </channel>
+</rss>

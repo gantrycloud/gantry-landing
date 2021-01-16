@@ -10,7 +10,7 @@ baseURL = "https://gantry.cloud"
 
 title = "Gantry"
 theme = "persia"
-#themesDir = "themes/"
+# themesDir = "themes/"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
