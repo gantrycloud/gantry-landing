@@ -8,7 +8,7 @@ draft: false
 
 ## We are your plumber...
 
-We build the pipelines, install the pumps, and occasionally, shag the wives.
+We build the pipelines, install the pumps, and occasionally build the house.
 
 
 ## Principal Infrastructure 
