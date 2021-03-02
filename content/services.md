@@ -9,19 +9,19 @@ tags: []
 draft: false
 ---
 
-## Power Hour: $1,200
+## Power Hour: $500
 90 minutes of one-on-one consulting where we will analyze your system and come up with a strategy you can implement yourself, or have us do later.
 
-## Single Implementation I: $7,500
+## Single Implementation I: 
 We will execute (according to a Statement Of Work) predefined outcomes for your team.
 
-## Single Implementation II: $12,000
+## Single Implementation II:
 More servers, more bandwidth, more processes.. time for an upgrade to our more advanced one-time package.
 
-## 6 Month Support: $120,000
+## 6 Month Support:
 Full DevOps support for six months.
 
-## By The Hour: $250/Hour
-
+## Additional Consulting By The Hour: $150/Hour
 For each hour after a Power Hour. Continuous infrastructure support as you need it.
-One Year Agreement: Contact Us
+
+## One Year Agreement: Contact Us
