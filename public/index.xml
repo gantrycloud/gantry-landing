@@ -6,31 +6,31 @@
     <description>Recent content on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are you bringing aboard?</title>
-      <link>https://gantry.cloud/post/post-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <link>https://gantry.cloud/post/gantry/</link>
+      <pubDate>Thu, 04 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-1/</guid>
+      <guid>https://gantry.cloud/post/gantry/</guid>
       <description>Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based. Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry</description>
     </item>
     
     <item>
       <title>Day Zero</title>
-      <link>https://gantry.cloud/post/post-3/</link>
+      <link>https://gantry.cloud/post/dayzero/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-3/</guid>
+      <guid>https://gantry.cloud/post/dayzero/</guid>
       <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
     </item>
     
     <item>
       <title>Decisions</title>
-      <link>https://gantry.cloud/post/post-2/</link>
+      <link>https://gantry.cloud/post/decisions/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-2/</guid>
+      <guid>https://gantry.cloud/post/decisions/</guid>
       <description>Decision Making How do you decide what cloud is for you?
 Do you need compliance? Perhaps you are leaning towards Azure.
 Are your engineers on google? GCloud!
@@ -71,11 +71,14 @@ Single Implementation II: More servers, more bandwidth, more processes.. time fo
     
     <item>
       <title>Argo CD</title>
-      <link>https://gantry.cloud/post/post-4/</link>
+      <link>https://gantry.cloud/post/argocd/</link>
       <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-4/</guid>
-      <description>Hello</description>
+      <guid>https://gantry.cloud/post/argocd/</guid>
+      <description>Why not declarative? Have you ever written a deploy script to push your Kubernetes Helm chart yamls up to the cluster one by one?
+Maybe you do this manually and then have the misfortune of having to do it all over once more when something breaks.
+ArgoCD is a powerful tool that runs in your cluster and grabs everything it needs from github/gitlab including:
+ Container Repository Locations Helm Charts Latest Tags  It then executes the helm command as a &amp;ldquo;sync&amp;rdquo; in your cluster and puts it all together in a beautiful visual graph.</description>
     </item>
     
     <item>
@@ -85,6 +88,15 @@ Single Implementation II: More servers, more bandwidth, more processes.. time fo
       
       <guid>https://gantry.cloud/post/caddy/</guid>
       <description>On Caddy</description>
+    </item>
+    
+    <item>
+      <title>Unihelm</title>
+      <link>https://gantry.cloud/post/unihelm/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/unihelm/</guid>
+      <description>Unifying your helm.. is it a good idea?</description>
     </item>
     
     <item>

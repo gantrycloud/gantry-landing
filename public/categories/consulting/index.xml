@@ -9,19 +9,19 @@
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day Zero</title>
-      <link>https://gantry.cloud/post/post-3/</link>
+      <link>https://gantry.cloud/post/dayzero/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-3/</guid>
+      <guid>https://gantry.cloud/post/dayzero/</guid>
       <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
     </item>
     
     <item>
       <title>Decisions</title>
-      <link>https://gantry.cloud/post/post-2/</link>
+      <link>https://gantry.cloud/post/decisions/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/post-2/</guid>
+      <guid>https://gantry.cloud/post/decisions/</guid>
       <description>Decision Making How do you decide what cloud is for you?
 Do you need compliance? Perhaps you are leaning towards Azure.
 Are your engineers on google? GCloud!
@@ -37,6 +37,15 @@ Maybe you need your own control planes altogether!</description>
       <description>So Kubernetes is your destination, great choice! Now how do you get there? Whether you are deploying an API, UI, or Machine Learning Model, you still need to progress through the software development lifecycle.
 Here automation is your friend, with Continuous Integration and Continuous delivery you can increase feature and reliability development velocity for your application. With each commit you can build, test, deliver, and monitor your product.
 With our managed CI/CD pipelines we provide you with the latest cloud native build, test, and delivery techniques.</description>
+    </item>
+    
+    <item>
+      <title>Unihelm</title>
+      <link>https://gantry.cloud/post/unihelm/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/unihelm/</guid>
+      <description>Unifying your helm.. is it a good idea?</description>
     </item>
     
   </channel>
