@@ -26,12 +26,14 @@
     </item>
     
     <item>
-      <title>Unihelm</title>
+      <title>UniHelm</title>
       <link>https://gantry.cloud/post/unihelm/</link>
       <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
       
       <guid>https://gantry.cloud/post/unihelm/</guid>
-      <description>Unifying your helm.. is it a good idea?</description>
+      <description>Unifying your helm.. is it a good idea?
+So you have twenty microservices floating around with their own values files, stateful sets, service yamls and possibly even pulling from isolated sources of secrets.
+This can be hard to maintain, depending on your CI pipeline due to the fact that each values file needs to have its versions modified every time a new container is made, tagged and pushed to the repository.</description>
     </item>
     
   </channel>

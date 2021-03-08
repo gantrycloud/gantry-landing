@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Unihelm</title>
+  <title>UniHelm</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -30,7 +30,7 @@
   
   <meta property="og:image" content="https://gantry.cloud/images/helm.png" />
   
-  <meta property="og:title" content="Unihelm" />
+  <meta property="og:title" content="UniHelm" />
 <meta property="og:description" content="Unified Helm Kustomize" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://gantry.cloud/post/unihelm/" />
@@ -114,13 +114,13 @@
 <section>
   <div class="container-fluid">
     <div class="post">
-      <img src="https://gantry.cloud/images/helm.png" class="img-fluid w-100" alt="Unihelm">
+      <img src="https://gantry.cloud/images/helm.png" class="img-fluid w-100" alt="UniHelm">
       <div class="post-content">
         <div class="post-date">
           <span>12</span>
           <span>May</span>
         </div>
-        <h2 class="post-title">Unihelm</h2>
+        <h2 class="post-title">UniHelm</h2>
       </div>
     </div>
   </div>
@@ -130,8 +130,24 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h1 class="mb-4">Unihelm</h1>
+        <h1 class="mb-4">UniHelm</h1>
         <div class="content"><p>Unifying your helm.. is it a good idea?</p>
+<p>So you have twenty microservices floating around with their own values files, stateful sets, service yamls and possibly even pulling from isolated sources of secrets.</p>
+<p>This can be hard to maintain, depending on your CI pipeline due to the fact that each values file needs to have its versions modified every time a new container is made, tagged and pushed to the repository.</p>
+<p>In one instance, we had a gitlab ci pipeline runner that would run the docker build and put the container in google cloud repository upon tagging. Then when deploying the helm charts, each chart would self-reference in the _helpers.tpl, NOTES.txt, and stateful sets/deployment/service yamls. This was a source of some frustration attributable to the following:</p>
+<ul>
+<li>Too many files</li>
+<li>Pipeline updates cannot be version controlled on one values yaml</li>
+<li>Observability on Declarative platforms (such as argo)</li>
+</ul>
+<p>Initially, our ARGO dash appeared as if there were many unrelated applications running:</p>
+<See Image>
+<p>After combining the helm charts into one, with a handy script I wrote, our ARGO setup appeared beautifully as this:</p>
+<See Image>
+<p>Now, not only do we have the option of rolling back using the kubernetes controller, but we could roll back the values yaml itself to prior versions.</p>
+<p>We instead set up the gitlab runner to go into the unified-helm chart repository and update the values yaml each time a release was tagged in the source repos by any of our engineers.</p>
+<p>So the lesson is: Unless otherwise required, wield helm in a manner that is most powerful for your team and your infrastructure.</p>
+<p>Mark</p>
 </div>
 
         <div class="text-center mt-5">
