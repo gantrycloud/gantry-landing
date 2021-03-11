@@ -68,10 +68,10 @@ name = "Services"
 URL = "services"
 weight = 4
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 5
+#[[menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 5
 
 # [[menu.main]]
 # name = "Privacy Policy"
