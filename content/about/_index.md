@@ -1,15 +1,16 @@
 ---
-title: "we are modern infrastructure"
+title: "We Are Modern Infrastructure"
 image: "images/gantrylogolinear.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-{{< youtube LuOswN40c4Q >}}
-
 ## Consider us your plumber...
 
 We build the pipelines, install the pumps, and occasionally build the house. How?
+
+{{< youtube LuOswN40c4Q >}}
+&nbsp;
 
 # Consulting
 Before loading the ship, know where it is going. Business and technology choices go hand in hand, which is why it is paramount to have both aspects considered in your strategy.

@@ -9,6 +9,9 @@ tags: []
 draft: false
 ---
 
+{{< youtube JQxGztqmkrI >}}
+&nbsp;
+
 ## Terraform + Kubernetes + Prometheus + Helm Foundation
 ![tkh](/images/tkh.jpg)
 Your infrastructure scalability needs now go beyond what can be accomplished with docker-compose. We will build your helm charts and give you a documented process for setting up your infrastructure on a cloud provider such as Gcloud, AWS, DigitalOcean or Azure.

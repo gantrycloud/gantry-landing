@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Kickstart"
 date: 2021-04-05T14:43:51-07:00
-image: "images/shipyard.jpg"
+image: "images/k8sindia.png"
 author: "Mark Wagner" # use capitalize
 description: "kubernetes kickstart program for migrating to the cloud"
 categories: ["main"]

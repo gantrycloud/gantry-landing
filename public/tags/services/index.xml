@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Gantry</title>
+    <link>https://gantry.cloud/tags/services/</link>
+    <description>Recent content in Services on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Apr 2021 15:19:28 -0700</lastBuildDate><atom:link href="https://gantry.cloud/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argo Explained</title>
+      <link>https://gantry.cloud/post/argoexplained/</link>
+      <pubDate>Mon, 05 Apr 2021 15:19:28 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/post/argoexplained/</guid>
+      <description> Argo is a free, open-source continuous deployment tool It&amp;rsquo;s designed to be easy to use and deploy with any language or framework It works by running commands on your servers as you push new code to GitHub You can configure it for automatic deployments using web hooks from GitHub or BitBucket When deploying, Argo will run tests before updating the server if necessary If tests fail, then no changes are made and the previous version of the app remains deployed until you manually update it yourself (or fix the tests) Argo also has an option for staging environments that let you test out new features before they go live in production  </description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Kickstart</title>
+      <link>https://gantry.cloud/post/kickstart/</link>
+      <pubDate>Mon, 05 Apr 2021 14:43:51 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/post/kickstart/</guid>
+      <description>Kubernetes Kickstart will take your existing application built in docker containers and load them into a scalable kubernetes cluster. We&amp;rsquo;ll provide documentation on how to scale and debug deployments alongside our team taking care of the infrastructure tier specifics. Our four week pilot study will bring your infrastructure stack up-to-date while you continue iterating with your developers uninterrupted. Get started right away or contact us for questions!</description>
+    </item>
+    
+  </channel>
+</rss>

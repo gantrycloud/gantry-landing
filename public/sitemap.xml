@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gantry.cloud/post/argoexplained/</loc>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gantry.cloud/categories/</loc>
-    <lastmod>2021-03-04T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://gantry.cloud/</loc>
-    <lastmod>2021-03-04T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://gantry.cloud/categories/main/</loc>
-    <lastmod>2021-03-04T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://gantry.cloud/post/</loc>
-    <lastmod>2021-03-04T12:14:34+06:00</lastmod>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gantry.cloud/tags/systems/</loc>
-    <lastmod>2021-03-04T12:14:34+06:00</lastmod>
+    <loc>https://gantry.cloud/tags/services/</loc>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://gantry.cloud/tags/</loc>
+    <lastmod>2021-04-05T15:19:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gantry.cloud/post/kickstart/</loc>
+    <lastmod>2021-04-05T14:43:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gantry.cloud/tags/systems/</loc>
     <lastmod>2021-03-04T12:14:34+06:00</lastmod>
   </url>
   
