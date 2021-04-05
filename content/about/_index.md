@@ -1,13 +1,9 @@
 ---
-title: "We Are Modern Infrastructure"
+title: "We implement ArgoCD and train your team on open source Kubernetes tools"
 image: "images/gantrylogolinear.jpg"
 description: "This is meta description."
 draft: false
 ---
-
-## Consider us your plumber...
-
-We build the pipelines, install the pumps, and occasionally build the house. How?
 
 {{< youtube LuOswN40c4Q >}}
 &nbsp;

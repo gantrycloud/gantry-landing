@@ -9,6 +9,11 @@ tags: ["Services"]
 draft: false
 ---
 
+{{< youtube QyBwZf9O8Cw >}}
+&nbsp;
+
+## Lets get seven points clear:
+
 1. Argo is a free, open-source continuous deployment tool
 2. It's designed to be easy to use and deploy with any language or framework
 3. It works by running commands on your servers as you push new code to GitHub
