@@ -5,6 +5,7 @@ description: "This is meta description."
 draft: false
 ---
 
+{{< youtube LuOswN40c4Q >}}
 
 ## Consider us your plumber...
 
@@ -33,7 +34,7 @@ ___
 
 ## Principal Infrastructure Engineer
 
-Jason Stryker is a Senior Site Reliability Engineer who has worked on cloud migrations and critical infrastructure automation for a major U.S. financial institution. 
+Jason Stryker is a Senior Site Reliability Engineer who has worked on cloud migrations and critical infrastructure automation for a major U.S. financial institution.
 
 ## Devops Architect
 
