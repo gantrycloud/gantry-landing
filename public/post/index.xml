@@ -40,7 +40,7 @@
       <pubDate>Thu, 05 Mar 2020 20:45:43 -0700</pubDate>
       
       <guid>https://gantry.cloud/post/kustomize/</guid>
-      <description>About Kustomize </description>
+      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
     </item>
     
     <item>

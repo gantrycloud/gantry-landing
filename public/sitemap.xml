@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://gantry.cloud/tags/dev-ops/</loc>
+    <loc>https://gantry.cloud/post/kustomize/</loc>
     <lastmod>2020-03-05T20:45:43-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gantry.cloud/post/kustomize/</loc>
+    <loc>https://gantry.cloud/tags/open-source/</loc>
     <lastmod>2020-03-05T20:45:43-07:00</lastmod>
   </url>
   
@@ -79,6 +79,11 @@
   
   <url>
     <loc>https://gantry.cloud/post/decisions/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gantry.cloud/tags/dev-ops/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Gantry</title>
+    <link>https://gantry.cloud/tags/open-source/</link>
+    <description>Recent content in Open Source on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 20:45:43 -0700</lastBuildDate><atom:link href="https://gantry.cloud/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kustomize</title>
+      <link>https://gantry.cloud/post/kustomize/</link>
+      <pubDate>Thu, 05 Mar 2020 20:45:43 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/post/kustomize/</guid>
+      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
+    </item>
+    
+  </channel>
+</rss>
