@@ -5,7 +5,7 @@ description: "This is meta description."
 draft: false
 ---
 
-![](/images/whatlabeledsmall.png)
+<!-- ![](/images/whatlabeledsmall.png) -->
 
 Straddled over a shipyard, a Gantry Crane is used to organize containers, and is capable of lifting the heaviest loads on the planet. In our increasingly automated world, infrastructure is code, software is containerized, and storage is cloud based.
 Your business has deadlines, objectives and assets that need to get places on time, every time. Let us do the heavy lifting. – Gantry

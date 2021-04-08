@@ -10,9 +10,7 @@ draft: false
 ---
 ## So What is Caddy Server?  
 
-<!-- ![golf](/images/golfcaddy.jpg#center) -->
-
-{{< image src="/images/golfcaddy.jpg" alt="golf" >}}
+![golf](/images/golfcaddy.jpg#center)
 
 &nbsp;
 
