@@ -16,14 +16,5 @@
       <description>A small team of engineers on a big mission to make the sky a safer, more efficient space.</description>
     </item>
     
-    <item>
-      <title>Caddy &gt; Nginx</title>
-      <link>https://gantry.cloud/post/caddy/</link>
-      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
-      
-      <guid>https://gantry.cloud/post/caddy/</guid>
-      <description>So What is Caddy Server?   You&amp;rsquo;ve probably heard of Nginx, right? It&amp;rsquo;s one of the most popular web servers in use today. But have you ever heard of Caddy Server? It&amp;rsquo;s a relatively new server that is quickly growing in popularity because it offers many benefits over other traditional web servers. In this blog post we will explore some reasons why Caddy Server might be better for your website than Nginx.</description>
-    </item>
-    
   </channel>
 </rss>

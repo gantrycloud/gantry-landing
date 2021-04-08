@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source, Servers on Gantry</title>
+    <link>https://gantry.cloud/tags/open-source-servers/</link>
+    <description>Recent content in Open Source, Servers on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/tags/open-source-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caddy &gt; Nginx</title>
+      <link>https://gantry.cloud/post/caddy/</link>
+      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/caddy/</guid>
+      <description>So What is Caddy Server?   You&amp;rsquo;ve probably heard of Nginx, right? It&amp;rsquo;s one of the most popular web servers in use today. But have you ever heard of Caddy Server? It&amp;rsquo;s a relatively new server that is quickly growing in popularity because it offers many benefits over other traditional web servers. In this blog post we will explore some reasons why Caddy Server might be better for your website than Nginx.</description>
+    </item>
+    
+  </channel>
+</rss>
