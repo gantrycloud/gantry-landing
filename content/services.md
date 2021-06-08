@@ -23,9 +23,6 @@ What we provide:
 - Prometheus dashboard installed to view your status  
 - Documentation on how to recreate and maintain system  
 
-$15,000 up to 20 microservices  
-
-
 
 ## Implemenation of Declarative Git-Ops Pipeline (ARGOCD)  
 
@@ -40,8 +37,6 @@ What we provide:
 - Scripts to launch this repeatably and efficiently.
 - Optional Argo Rollouts and Argo Workflows (Additional)
 
-$12,000 up to 20 microservices
-
 ## Proprietary Control Plane
 ![ka](/images/kubeadm.png)  
 
@@ -54,6 +49,21 @@ What we provide:
 - Basic cluster setup on the machine
 - Documentation and support on how to modify, migrate and scale your custom environment.
 
-$22,000
+
+
+## Enhanced Kubernetes
+
+Managed and self-hosted options available
+
+
+## Enhanced CI/CD
+
+Managed and self-hosted options available
+
+So Kubernetes is your destination, great choice! Now how do you get there? Whether you are deploying an API, UI, or Machine Learning Model, you still need to progress through the software development lifecycle.
+
+Here automation is your friend, with Continuous Integration and Continuous delivery you can increase feature and reliability development velocity for your application. With each commit you can build, test, deliver, and monitor your product.
+
+With our managed CI/CD pipelines we provide you with the latest cloud native build, test, and delivery techniques. Combined with the reliability and observability of Kubernetes, having a fully automated end-to-end pipeline can deliver your product into a battle tested next-generation environment with a feedback loop to enable both fast iteration and high-availability.
 
 ## Contact Us: services@gantry.cloud
