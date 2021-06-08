@@ -10,4 +10,24 @@ tags: []
 draft: false
 ---
 
-## XERO
+## Xero
+
+### Bring best practices surrounding reliability, security and efficiency to your infrastructure with our agent, logic engine, and dashboard built on cutting edge and trusted open source.
+
+&nbsp;
+&nbsp;
+
+![overview](/images/gantry_diagramj.jpg#center)
+&nbsp;
+
+# Explained by our founding Mater SRE, Jason Stryker
+{{< youtube oL1bQbhtGbg >}}
+# Explained by Mark Wagner
+{{< youtube D6BrVUdcF98 >}}
+# Explained from the perspective of a software manager
+{{< youtube JScEsiq4fWs >}}
+# Explained from the perspective of a business owner
+{{< youtube BCCHB5uq6pk >}}
+
+# High-Level Overview
+![high_level](/images/high_level.png#center)

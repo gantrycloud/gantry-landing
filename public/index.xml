@@ -83,7 +83,7 @@ With our managed CI/CD pipelines we provide you with the latest cloud native bui
       <guid>https://gantry.cloud/services/</guid>
       <description>Terraform + Kubernetes + Prometheus + Helm Foundation Your infrastructure scalability needs now go beyond what can be accomplished with docker-compose. We will build your helm charts and give you a documented process for setting up your infrastructure on a cloud provider such as Gcloud, AWS, DigitalOcean or Azure.
 What we provide:
- Main.tf file tailored to create the resources for your services (load balancers, clusterIPs, Pods) Unified or volumed helm charts templating your deployments Deployment script to launch those services in a kubernetes cluster Prometheus dashboard installed to view your status Documentation on how to recreate and maintain system  $15,000 up to 20 microservices</description>
+ Main.tf file tailored to create the resources for your services (load balancers, clusterIPs, Pods) Unified or volumed helm charts templating your deployments Deployment script to launch those services in a kubernetes cluster Prometheus dashboard installed to view your status Documentation on how to recreate and maintain system  Implemenation of Declarative Git-Ops Pipeline (ARGOCD) Don&amp;rsquo;t push code to your cluster, have your cluster intelligently pull it instead!</description>
     </item>
     
     <item>
@@ -151,10 +151,7 @@ This can be hard to maintain, depending on your CI pipeline due to the fact that
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gantry.cloud/products/</guid>
-      <description>Enhanced Kubernetes Managed and self-hosted options available
-Enhanced CI/CD Managed and self-hosted options available
-So Kubernetes is your destination, great choice! Now how do you get there? Whether you are deploying an API, UI, or Machine Learning Model, you still need to progress through the software development lifecycle.
-Here automation is your friend, with Continuous Integration and Continuous delivery you can increase feature and reliability development velocity for your application. With each commit you can build, test, deliver, and monitor your product.</description>
+      <description>Xero Bring best practices surrounding reliability, security and efficiency to your infrastructure with our agent, logic engine, and dashboard built on cutting edge and trusted open source.  Explained by our founding Mater SRE, Jason Stryker   Explained by Mark Wagner   Explained from the perspective of a software manager   Explained from the perspective of a business owner   High-Level Overview </description>
     </item>
     
   </channel>
