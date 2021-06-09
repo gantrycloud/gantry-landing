@@ -13,6 +13,7 @@ Your business has deadlines, objectives and assets that need to get places on ti
 &nbsp;
 
 {{< youtube oL1bQbhtGbg >}}
+
 &nbsp;
 
 # Consulting
@@ -43,3 +44,5 @@ Jason Stryker is a Senior Site Reliability Engineer who has worked on cloud mig
 ## Devops Architect
 
 Mark Wagner is a Linux engineer based in Austin, Texas who previously automated Machine Learning efforts at Wells Fargo.
+
+{{< youtube LuOswN40c4Q >}}
