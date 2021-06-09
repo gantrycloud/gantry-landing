@@ -20,7 +20,7 @@ draft: false
 ![overview](/images/gantry_diagramj.jpg#center)
 &nbsp;
 
-# Explained by our founding Mater SRE, Jason Stryker
+# Explained by our founding Master SRE, Jason Stryker
 {{< youtube oL1bQbhtGbg >}}
 # Explained by Mark Wagner
 {{< youtube D6BrVUdcF98 >}}
