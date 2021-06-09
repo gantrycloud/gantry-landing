@@ -20,14 +20,15 @@ draft: false
 ![overview](/images/gantry_diagramj.jpg#center)
 &nbsp;
 
-# Explained by our founding Master SRE, Jason Stryker
+# Explained by Master SRE, Jason Stryker
 {{< youtube oL1bQbhtGbg >}}
-# Explained by Mark Wagner
-{{< youtube D6BrVUdcF98 >}}
-# Explained from the perspective of a software manager
-{{< youtube JScEsiq4fWs >}}
 # Explained from the perspective of a business owner
 {{< youtube BCCHB5uq6pk >}}
+# Explained from the perspective of a software manager
+{{< youtube JScEsiq4fWs >}}
+# Explained by Engineer, Mark
+{{< youtube D6BrVUdcF98 >}}
+
 
 # High-Level Overview
 ![high_level](/images/high_level.png#center)
