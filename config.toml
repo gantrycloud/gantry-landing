@@ -49,6 +49,11 @@ link = "plugins/search/search.js"
 ################################ menu ##################################
 
 [[menu.main]]
+name = "Dashboard"
+URL = "https://www.jasonstryker.com"
+weight = 4
+
+[[menu.main]]
 name = "Articles"
 URL = "/"
 weight = 1
