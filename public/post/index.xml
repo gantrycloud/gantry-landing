@@ -35,21 +35,13 @@
     </item>
     
     <item>
-      <title>Kustomize</title>
-      <link>https://gantry.cloud/post/kustomize/</link>
-      <pubDate>Thu, 05 Mar 2020 20:45:43 -0700</pubDate>
+      <title>RED&#43; vs USE Method</title>
+      <link>https://gantry.cloud/post/reduse/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/kustomize/</guid>
-      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
-    </item>
-    
-    <item>
-      <title>Day Zero</title>
-      <link>https://gantry.cloud/post/dayzero/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://gantry.cloud/post/dayzero/</guid>
-      <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
+      <guid>https://gantry.cloud/post/reduse/</guid>
+      <description>The Red Use methodology The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.
+USE metrics are used to understand how applications behave and where they should be scaled. This metric correlates with load, memory usage, CPU useage, etc. so it is great for understanding what the application needs in order to function properly.</description>
     </item>
     
     <item>
@@ -76,12 +68,21 @@ With our managed CI/CD pipelines we provide you with the latest cloud native bui
     </item>
     
     <item>
-      <title>A company taking flight</title>
-      <link>https://gantry.cloud/post/skygrid/</link>
-      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
+      <title>Day Zero</title>
+      <link>https://gantry.cloud/post/dayzero/</link>
+      <pubDate>Sat, 11 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://gantry.cloud/post/skygrid/</guid>
-      <description>A small team of engineers on a big mission to make the sky a safer, more efficient space.</description>
+      <guid>https://gantry.cloud/post/dayzero/</guid>
+      <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
+    </item>
+    
+    <item>
+      <title>Kustomize</title>
+      <link>https://gantry.cloud/post/kustomize/</link>
+      <pubDate>Tue, 05 Mar 2019 20:45:43 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/post/kustomize/</guid>
+      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
     </item>
     
     <item>

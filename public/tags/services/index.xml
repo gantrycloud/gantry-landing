@@ -25,5 +25,15 @@
       <description>Kubernetes Kickstart will take your existing application built in docker containers and load them into a scalable kubernetes cluster. We&amp;rsquo;ll provide documentation on how to scale and debug deployments alongside our team taking care of the infrastructure tier specifics. Our four week pilot study will bring your infrastructure stack up-to-date while you continue iterating with your developers uninterrupted. Get started right away or contact us for questions!</description>
     </item>
     
+    <item>
+      <title>RED&#43; vs USE Method</title>
+      <link>https://gantry.cloud/post/reduse/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/reduse/</guid>
+      <description>The Red Use methodology The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.
+USE metrics are used to understand how applications behave and where they should be scaled. This metric correlates with load, memory usage, CPU useage, etc. so it is great for understanding what the application needs in order to function properly.</description>
+    </item>
+    
   </channel>
 </rss>

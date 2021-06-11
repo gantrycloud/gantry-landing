@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Open Source</title>
-      <link>https://gantry.cloud/tags/open-source/</link>
-      <pubDate>Thu, 05 Mar 2020 20:45:43 -0700</pubDate>
-      
-      <guid>https://gantry.cloud/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cloud</title>
       <link>https://gantry.cloud/tags/cloud/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
@@ -46,9 +37,18 @@
     <item>
       <title>Dev-Ops</title>
       <link>https://gantry.cloud/tags/dev-ops/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <pubDate>Sat, 11 May 2019 12:14:34 +0600</pubDate>
       
       <guid>https://gantry.cloud/tags/dev-ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://gantry.cloud/tags/open-source/</link>
+      <pubDate>Tue, 05 Mar 2019 20:45:43 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/tags/open-source/</guid>
       <description></description>
     </item>
     
@@ -58,15 +58,6 @@
       <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
       
       <guid>https://gantry.cloud/tags/open-source-servers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://gantry.cloud/tags/software/</link>
-      <pubDate>Sat, 12 May 2018 12:14:34 +0600</pubDate>
-      
-      <guid>https://gantry.cloud/tags/software/</guid>
       <description></description>
     </item>
     

@@ -6,25 +6,7 @@
     <description>Recent content in consulting on Gantry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 20:45:43 -0700</lastBuildDate><atom:link href="https://gantry.cloud/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kustomize</title>
-      <link>https://gantry.cloud/post/kustomize/</link>
-      <pubDate>Thu, 05 Mar 2020 20:45:43 -0700</pubDate>
-      
-      <guid>https://gantry.cloud/post/kustomize/</guid>
-      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
-    </item>
-    
-    <item>
-      <title>Day Zero</title>
-      <link>https://gantry.cloud/post/dayzero/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://gantry.cloud/post/dayzero/</guid>
-      <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decisions</title>
       <link>https://gantry.cloud/post/decisions/</link>
@@ -46,6 +28,24 @@ Maybe you need your own control planes altogether!</description>
       <description>So Kubernetes is your destination, great choice! Now how do you get there? Whether you are deploying an API, UI, or Machine Learning Model, you still need to progress through the software development lifecycle.
 Here automation is your friend, with Continuous Integration and Continuous delivery you can increase feature and reliability development velocity for your application. With each commit you can build, test, deliver, and monitor your product.
 With our managed CI/CD pipelines we provide you with the latest cloud native build, test, and delivery techniques.</description>
+    </item>
+    
+    <item>
+      <title>Day Zero</title>
+      <link>https://gantry.cloud/post/dayzero/</link>
+      <pubDate>Sat, 11 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/dayzero/</guid>
+      <description>Day Zero: Your team has decided that it is time to move virtual. There are questions whose answers only create more questions. What platform? Which Software? Who will handle it? What if it breaks? And most critical: What if we lose critical data? Start at the beginning and follow the map.</description>
+    </item>
+    
+    <item>
+      <title>Kustomize</title>
+      <link>https://gantry.cloud/post/kustomize/</link>
+      <pubDate>Tue, 05 Mar 2019 20:45:43 -0700</pubDate>
+      
+      <guid>https://gantry.cloud/post/kustomize/</guid>
+      <description>How do Kustomize and Helm Compare?  Helm and Kustomize are two tools that allow users to create custom Linux-based OS stacks for cloud environments. The only difference between these two is in how they work with Docker containers. Kustomize builds on top of a base image, whereas Helm creates a new container instance from scratch. Kustomize does not have built-in support for using Docker images as templates, but has an ability to use any other tool such as Ansible or Chef.</description>
     </item>
     
     <item>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Gantry</title>
+    <link>https://gantry.cloud/categories/devops/</link>
+    <description>Recent content in DevOps on Gantry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://gantry.cloud/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RED&#43; vs USE Method</title>
+      <link>https://gantry.cloud/post/reduse/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://gantry.cloud/post/reduse/</guid>
+      <description>The Red Use methodology The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.
+USE metrics are used to understand how applications behave and where they should be scaled. This metric correlates with load, memory usage, CPU useage, etc. so it is great for understanding what the application needs in order to function properly.</description>
+    </item>
+    
+  </channel>
+</rss>

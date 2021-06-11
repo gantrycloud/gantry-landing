@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+
+<head>
+  <meta charset="utf-8">
+  <title>RED&#43; vs USE Method</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="RED&#43; VS USE Methodology">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Hugo 0.79.1" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://gantry.cloud/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://gantry.cloud/plugins/themify-icons/themify-icons.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://gantry.cloud/scss/style.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://gantry.cloud/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://gantry.cloud/images/favicon.png" type="image/x-icon">
+
+  
+  <meta property="og:image" content="https://gantry.cloud/images/reduse.jpg" />
+  
+  <meta property="og:title" content="RED&#43; vs USE Method" />
+<meta property="og:description" content="RED&#43; VS USE Methodology" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gantry.cloud/post/reduse/" />
+<meta property="article:published_time" content="2020-05-12T12:14:34+06:00" />
+<meta property="article:modified_time" content="2020-05-12T12:14:34+06:00" />
+
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="py-4">
+  <div class="container-fluid">
+    
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="/">
+        
+        <img class="img-fluid" width="150px" src="https://gantry.cloud/images/gantrylogolinear_.png" alt="Gantry">
+        
+      </a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://gantry.cloud/">Articles</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://gantry.cloud/about">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://gantry.cloud/products">Products</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.jasonstryker.com">Dashboard</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://gantry.cloud/services">Services</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search px-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="/search" class="h-100">
+              <input class="search-box pl-4" id="search-query" name="s" type="search" placeholder="Type and hit enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section>
+  <div class="container-fluid">
+    <div class="post">
+      <img src="https://gantry.cloud/images/reduse.jpg" class="img-fluid w-100" alt="RED&#43; vs USE Method">
+      <div class="post-content">
+        <div class="post-date">
+          <span>12</span>
+          <span>May</span>
+        </div>
+        <h2 class="post-title">RED&#43; vs USE Method</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h1 class="mb-4">RED&#43; vs USE Method</h1>
+        <div class="content"><h1 id="the-red-use-methodology">The Red Use methodology</h1>
+<p>The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.</p>
+<p>USE metrics are used to understand how applications behave and where they should be scaled. This metric correlates with load, memory usage, CPU useage, etc. so it is great for understanding what the application needs in order to function properly. In contrast RED metrics compare infrastructure resources against each other using a scale that ranges from 0% utilized (green) -&gt; 100% utilization (red). Monitoring and Observability With USE and RED on Kubernetes</p>
+<p>It’s worth noting that both sets of metrics have an important role: by isolating workload metrics such as CPU or Memory we can see if there are any spikes which would indicate issues coming up; meanwhile monitoring red metric thresholds allows us to know when scaling out/in.</p>
+<p>A great article diving further into the fundamentals of USE/RED can be found at <a href="https://orangematter.solarwinds.com/2017/10/05/monitoring-and-observability-with-use-and-red/">https://orangematter.solarwinds.com/2017/10/05/monitoring-and-observability-with-use-and-red/</a></p>
+<p>Applying it to kubernetes is a separate matter. Some prometheus metrics to look for RED metrics are</p>
+<ul>
+<li>
+<p>load_one</p>
+</li>
+<li>
+<p>node_load (if you have num nodes)</p>
+</li>
+<li>
+<p>memory usage on the node.</p>
+</li>
+<li>
+<p>cpu utilization of a pod and other pods it is cohabiting with in terms of resource requirements as well as aggregate metrics such as user, system or wait time. Monitoring these would allow us to identify issues proactively rather than relying solely on alerts which can be noisy! This also provides visibility into what resources are being used by any given workload. Once we know that threshold has been reached, scaling out if necessary would help prevent cascading failures due to higher latency for requests since there will no longer be enough capacity where service levels are not met anymore. Scaling up when thresholds have been cleared allows new nodes.</p>
+</li>
+</ul>
+<p>Some USE metrics to pull from prometheus are:</p>
+<ul>
+<li>
+<p>CPU, memory and network utilization by pod.</p>
+</li>
+<li>
+<p>Memory and disk usage of a node (incl the aggregate over all pods on that node).</p>
+</li>
+<li>
+<p>Number of requests per second for particular services or nodes.</p>
+</li>
+<li>
+<p>Latency for various operations with some more specific USE metrics available in prometheus when we set up our own toolsets to collect data from multiple sources.</p>
+</li>
+</ul>
+<p>Some RED metrics:</p>
+<p>Memory is not something you can reserve but it becomes important if other resources are scarce as it determines how much work your application will be able to do at any given time so this metric would also come in handy during times where scaling out might not help anymore due to higher latency. When using containers, there&rsquo;s always an overhead</p>
+<p>Because the human observer can better perceive things visually, we need to display these somewhere. The best way to then monitor these will be with Grafana, an open source graphing tool geared towards kubernetes. Metrics can change color based on the health of the metric.</p>
+<p>Monitoring and observability with USE and RED on Kubernetes</p>
+<p>The human observer can better perceive things visually, so we use Grafana as a graphing tool to monitor our metrics. Metrics change color based on the health of the metric. Some red metrics are memory which is not reserved but becomes important if other resources become scarce, or latency that&rsquo;s higher when scaling out might no longer help due to scarcity in CPU. Setting up your own toolsets can be useful too for more data points than what you get from default monitoring solutions like Prometheus. Monitoring/Observability With USE And RED On Kubernetes Learn how an organization was able to set up their own toolsets (such as Telegraf) to</p>
+<p>Wrapping up, it is important to instrument your services properly based on the type of service and the expected number of requests. To be clear, this is not a fix for shoddy code but it can help greatly if an application has an overuse of concurrency to make up for lack of performance.</p>
+<p>It is also important to be able to monitor how your application behaves in production. For this, you will want some form of observability such as USE and RED on Kubernetes. Learn how an organization was able to set up their own toolsets (such as Telegraf) together with techniques like service discovery and understanding load balancing patterns</p>
+<p>Wrapping up, it is important if other resources become scarce or latency that&rsquo;s higher when scaling out might no longer help due to scarcity in CPU - for example, setting the number of pods per node can only go so high before there are too many containers contending for the same resource; even though more CPUs would make better use of available memory. Setting up your own toolsets</p>
+</div>
+
+        <div class="text-center mt-5">
+          <ul class="list-inline post-meta d-inline-block mr-4">
+            <li class="list-inline-item"><i class="ti-tag"></i></li>
+            
+            <li class="list-inline-item">
+              <a href="/tags/services">Services</a>
+            </li>
+            
+          </ul>
+          <span><i class="ti-user mr-2"></i><a
+              href="/author/jason-stryker/">Jason Stryker</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<footer class="py-4">
+  <div class="container text-center">
+    <p></p>
+  </div>
+</footer>
+
+<!-- Search index -->
+
+<script>
+  var indexURL = "https://gantry.cloud/index.json"
+</script>
+
+
+
+<!-- JS Plugins -->
+
+<script src="https://gantry.cloud/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://gantry.cloud/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://gantry.cloud/plugins/search/fuse.min.js"></script>
+
+<script src="https://gantry.cloud/plugins/search/mark.js"></script>
+
+<script src="https://gantry.cloud/plugins/search/search.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://gantry.cloud/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+
+</html>
