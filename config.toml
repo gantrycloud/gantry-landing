@@ -86,7 +86,9 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/gantrylogolinear_.png"
+# logo = "images/gantrylogolinear_.png"
+logo = "images/gantrypride.png"
+
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
