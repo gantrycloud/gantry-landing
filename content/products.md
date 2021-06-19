@@ -9,12 +9,16 @@ categories: ["services"]
 tags: []
 draft: false
 ---
-## Sonar Vulnerability Scanning
-### CI pipeline vulnerability scanning system incorporating SonarCube, Jenkins, Jira, and Git to prevent vulnerable source code from deploying into dev, test, or production. See the demo dashboard analyze our own infrastructure as well as the industry-standard OWASP-Vulnerable Web Application
+# Sonar Vulnerability Scanning
+### CI pipeline vulnerability scanning system incorporating SonarCube, Jenkins, Jira, and Git to prevent vulnerable source code from deploying into dev, test, or production.
+
+### See the demo dashboard analyze our own infrastructure as well as the industry-standard OWASP-Vulnerable Web Application in the tab above.
+&nbsp;
+&nbsp;
 
 
 
-## Xero
+# Xero
 
 ### Bring best practices surrounding reliability, security and efficiency to your infrastructure with our agent, logic engine, and dashboard built on cutting edge and trusted open source.
 

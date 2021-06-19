@@ -24,7 +24,7 @@ What we provide:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gantry.cloud/products/</guid>
-      <description>Sonar Vulnerability Scanning CI pipeline vulnerability scanning system incorporating SonarCube, Jenkins, Jira, and Git to prevent vulnerable source code from deploying into dev, test, or production. See the demo dashboard analyze our own infrastructure as well as the industry-standard OWASP-Vulnerable Web Application Xero Bring best practices surrounding reliability, security and efficiency to your infrastructure with our agent, logic engine, and dashboard built on cutting edge and trusted open source.  Explained by Master SRE, Jason Stryker   Explained from the perspective of a business owner   Explained from the perspective of a software manager   Explained by Engineer, Mark   High-Level Overview </description>
+      <description>Sonar Vulnerability Scanning CI pipeline vulnerability scanning system incorporating SonarCube, Jenkins, Jira, and Git to prevent vulnerable source code from deploying into dev, test, or production. See the demo dashboard analyze our own infrastructure as well as the industry-standard OWASP-Vulnerable Web Application in the tab above.  Xero Bring best practices surrounding reliability, security and efficiency to your infrastructure with our agent, logic engine, and dashboard built on cutting edge and trusted open source.</description>
     </item>
     
   </channel>
