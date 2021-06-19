@@ -49,8 +49,13 @@ link = "plugins/search/search.js"
 ################################ menu ##################################
 
 [[menu.main]]
-name = "Dashboard"
-URL = "https://www.jasonstryker.com"
+name = "Xero Demo"
+URL = "https://xero.gantry.cloud/d/2IzkohRnk/xero-1-1-1?orgId=1"
+weight = 4
+
+[[menu.main]]
+name = "Sonar Demo"
+URL = "https://sonar.gantry.cloud"
 weight = 4
 
 [[menu.main]]
