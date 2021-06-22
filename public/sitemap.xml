@@ -1,167 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gantry.cloud/post/argoexplained/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/categories/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/categories/main/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/services/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/</loc>
     <lastmod>2021-04-05T15:19:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/kickstart/</loc>
     <lastmod>2021-04-05T14:43:51-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/systems/</loc>
     <lastmod>2021-03-04T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/gantry/</loc>
     <lastmod>2021-03-04T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/categories/devops/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/reduse/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/cloud/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/categories/consulting/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/decisions/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/managed-ci-pipeline/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/services/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/categories/services/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/dayzero/</loc>
     <lastmod>2019-05-11T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/dev-ops/</loc>
     <lastmod>2019-05-11T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/kustomize/</loc>
     <lastmod>2019-03-05T20:45:43-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/open-source/</loc>
     <lastmod>2019-03-05T20:45:43-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gantry.cloud/post/skygrid/</loc>
+    <lastmod>2018-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://gantry.cloud/post/argocd/</loc>
     <lastmod>2018-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/post/caddy/</loc>
     <lastmod>2018-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/tags/open-source-servers/</loc>
     <lastmod>2018-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gantry.cloud/tags/software/</loc>
+    <lastmod>2018-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://gantry.cloud/post/unihelm/</loc>
     <lastmod>2018-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/author/jason-stryker/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/author/mark-wagner/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/privacy-policy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/products/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/search/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gantry.cloud/about/</loc>
   </url>
-  
 </urlset>
