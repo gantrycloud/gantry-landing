@@ -50,7 +50,7 @@ link = "plugins/search/search.js"
 
 [[menu.main]]
 name = "Xero Demo"
-URL = "https://xero.gantry.cloud/d/3MyJoPR7z/xero-1-1-1?orgId=1&kiosk"
+URL = "https://xero.gantry.cloud/d/3MyJoPR7z/xero-1-1-1?orgId=1"
 weight = 4
 
 [[menu.main]]
