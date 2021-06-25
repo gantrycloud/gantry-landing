@@ -10,7 +10,7 @@ tags: []
 draft: false
 ---
 # Sonar Vulnerability Scanning
-### CI pipeline vulnerability scanning system incorporating SonarCube, Jenkins, Jira, and Git to prevent vulnerable source code from deploying into dev, test, or production.
+### DevSecOps CI pipeline, dashboard, and vulnerability scanning system incorporating SonarQube, Jenkins, Jira, BurpSuite and Git to prevent vulnerable source code from deploying into dev, test, or production as well as testing dynamic applications.
 
 ### See the demo dashboard analyze our own infrastructure as well as the industry-standard OWASP-Vulnerable Web Application in the tab above.
 &nbsp;
