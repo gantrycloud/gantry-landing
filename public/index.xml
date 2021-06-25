@@ -40,7 +40,7 @@
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://gantry.cloud/post/reduse/</guid>
-      <description>The Red Use methodology The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.
+      <description>What is the Red-Use methodology The use of USE vs RED metrics as they apply to infrastructure resources is a powerful paradigm allowing for more efficient and reliable applications. Starting by isolating workload metrics from hardware metrics, one can improve performance from both ends.
 USE metrics are used to understand how applications behave and where they should be scaled. This metric correlates with load, memory usage, CPU useage, etc. so it is great for understanding what the application needs in order to function properly.</description>
     </item>
     
@@ -144,6 +144,15 @@ This can be hard to maintain, depending on your CI pipeline due to the fact that
       
       <guid>https://gantry.cloud/author/mark-wagner/</guid>
       <description>Mark Wagner is a Full Stack Linux engineer based in Austin, Texas who previously automated Machine Learning efforts at Wells Fargo.</description>
+    </item>
+    
+    <item>
+      <title>Martin Rhoads</title>
+      <link>https://gantry.cloud/author/martin-rhoads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gantry.cloud/author/martin-rhoads/</guid>
+      <description>Martin Rhoads is a retired SRE who developed core infrastructure as an early employee of Airbnb and later Slack. He lives in Northern California.</description>
     </item>
     
     <item>
